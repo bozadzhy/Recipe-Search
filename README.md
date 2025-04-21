@@ -6,7 +6,7 @@ A web application for searching and viewing culinary recipes using the Spoonacul
    bash
    Copy
    Edit
-   git clone https://github.com/your-username/recipes-app.git
+   git clone https://github.com/bozadzhy/Recipe-Search
    cd recipes-app
    🧩 Features
    🔍 Recipe search by keyword
